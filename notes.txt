@@ -1,0 +1,14 @@
+##### 0802 - Configs
+
+• npx create-react-app `name-of-project`
+• Install history and react-router-dom v6.0.0
+`npm install history react-router-dom@next`
+
+• Clear src folder
+• Clear App.js and index.js
+• index.html title and description
+• Create a git repository
+
+##### 0803 - API 1
+
+• API Endpoints: [API](https://www.origamid.com/slide/react-completo/#/0803-api/1)
