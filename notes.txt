@@ -9,6 +9,16 @@
 • index.html title and description
 • Create a git repository
 
-##### 0803 - API 1
+##### 0803 - API 1 & API 2
 
 • API Endpoints: [API](https://www.origamid.com/slide/react-completo/#/0803-api/1)
+
+##### 0804 - STARTER STRUCTURE
+
+• Create Components folder
+• Create Header Component with CSS
+• Create Footer Component with CSS
+• Use `rafce`
+• Use BrowserRouter in App.js
+• Add Routes with Route inside (`path`)
+• 
