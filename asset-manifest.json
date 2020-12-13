@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/dogs-origamid/static/css/main.d5813a14.chunk.css",
-    "main.js": "/dogs-origamid/static/js/main.fe3ffd3b.chunk.js",
-    "main.js.map": "/dogs-origamid/static/js/main.fe3ffd3b.chunk.js.map",
-    "runtime-main.js": "/dogs-origamid/static/js/runtime-main.c21f6645.js",
-    "runtime-main.js.map": "/dogs-origamid/static/js/runtime-main.c21f6645.js.map",
-    "static/js/2.88bfba7b.chunk.js": "/dogs-origamid/static/js/2.88bfba7b.chunk.js",
-    "static/js/2.88bfba7b.chunk.js.map": "/dogs-origamid/static/js/2.88bfba7b.chunk.js.map",
+    "main.css": "/dogs-origamid/static/css/main.2bc64df2.chunk.css",
+    "main.js": "/dogs-origamid/static/js/main.2e7fcf3f.chunk.js",
+    "main.js.map": "/dogs-origamid/static/js/main.2e7fcf3f.chunk.js.map",
+    "runtime-main.js": "/dogs-origamid/static/js/runtime-main.977b0358.js",
+    "runtime-main.js.map": "/dogs-origamid/static/js/runtime-main.977b0358.js.map",
+    "static/js/2.ca9ea32b.chunk.js": "/dogs-origamid/static/js/2.ca9ea32b.chunk.js",
+    "static/js/2.ca9ea32b.chunk.js.map": "/dogs-origamid/static/js/2.ca9ea32b.chunk.js.map",
+    "static/js/3.56d0560c.chunk.js": "/dogs-origamid/static/js/3.56d0560c.chunk.js",
+    "static/js/3.56d0560c.chunk.js.map": "/dogs-origamid/static/js/3.56d0560c.chunk.js.map",
+    "static/css/4.ac2fdc35.chunk.css": "/dogs-origamid/static/css/4.ac2fdc35.chunk.css",
+    "static/js/4.cd8cda5a.chunk.js": "/dogs-origamid/static/js/4.cd8cda5a.chunk.js",
+    "static/js/4.cd8cda5a.chunk.js.map": "/dogs-origamid/static/js/4.cd8cda5a.chunk.js.map",
     "index.html": "/dogs-origamid/index.html",
-    "static/css/main.d5813a14.chunk.css.map": "/dogs-origamid/static/css/main.d5813a14.chunk.css.map",
-    "static/js/2.88bfba7b.chunk.js.LICENSE.txt": "/dogs-origamid/static/js/2.88bfba7b.chunk.js.LICENSE.txt",
+    "static/css/4.ac2fdc35.chunk.css.map": "/dogs-origamid/static/css/4.ac2fdc35.chunk.css.map",
+    "static/css/main.2bc64df2.chunk.css.map": "/dogs-origamid/static/css/main.2bc64df2.chunk.css.map",
+    "static/js/3.56d0560c.chunk.js.LICENSE.txt": "/dogs-origamid/static/js/3.56d0560c.chunk.js.LICENSE.txt",
     "static/media/adicionar.2fe277f9.svg": "/dogs-origamid/static/media/adicionar.2fe277f9.svg",
+    "static/media/dogs-footer.9c77af3a.svg": "/dogs-origamid/static/media/dogs-footer.9c77af3a.svg",
     "static/media/dogs.69bf6d22.svg": "/dogs-origamid/static/media/dogs.69bf6d22.svg",
     "static/media/enviar.1112bddc.svg": "/dogs-origamid/static/media/enviar.1112bddc.svg",
     "static/media/estatisticas.c69dd1e1.svg": "/dogs-origamid/static/media/estatisticas.c69dd1e1.svg",
@@ -22,9 +29,9 @@
     "static/media/FeedPhotosItem.module.css": "/dogs-origamid/static/media/visualizacao.09cd5578.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c21f6645.js",
-    "static/js/2.88bfba7b.chunk.js",
-    "static/css/main.d5813a14.chunk.css",
-    "static/js/main.fe3ffd3b.chunk.js"
+    "static/js/runtime-main.977b0358.js",
+    "static/js/3.56d0560c.chunk.js",
+    "static/css/main.2bc64df2.chunk.css",
+    "static/js/main.2e7fcf3f.chunk.js"
   ]
 }
