@@ -8,6 +8,7 @@ import Home from "./components/Home";
 import Login from "./components/Login/Login";
 import User from "./components/User/User";
 import ProtectedRoute from "./components/Helper/ProtectedRoute";
+import Photo from "./components/Photo/Photo";
 
 const App = () => {
   return (
@@ -19,6 +20,7 @@ const App = () => {
             <Route path="/" element={<Home />} />
             <Route path="login/*" element={<Login />} />
             <ProtectedRoute path="account/*" element={<User />} />
+            <Route path="photo/:id" element={<Photo />} />
           </Routes>
           <Footer />
         </UserStorage>
