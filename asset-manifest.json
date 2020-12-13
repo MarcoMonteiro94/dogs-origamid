@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/dogs-origamid/static/css/main.d8ee7bf5.chunk.css",
-    "main.js": "/dogs-origamid/static/js/main.f917200b.chunk.js",
-    "main.js.map": "/dogs-origamid/static/js/main.f917200b.chunk.js.map",
-    "runtime-main.js": "/dogs-origamid/static/js/runtime-main.b64a5587.js",
-    "runtime-main.js.map": "/dogs-origamid/static/js/runtime-main.b64a5587.js.map",
-    "static/js/2.267827af.chunk.js": "/dogs-origamid/static/js/2.267827af.chunk.js",
-    "static/js/2.267827af.chunk.js.map": "/dogs-origamid/static/js/2.267827af.chunk.js.map",
+    "main.css": "/dogs-origamid/static/css/main.d5813a14.chunk.css",
+    "main.js": "/dogs-origamid/static/js/main.fe3ffd3b.chunk.js",
+    "main.js.map": "/dogs-origamid/static/js/main.fe3ffd3b.chunk.js.map",
+    "runtime-main.js": "/dogs-origamid/static/js/runtime-main.c21f6645.js",
+    "runtime-main.js.map": "/dogs-origamid/static/js/runtime-main.c21f6645.js.map",
+    "static/js/2.88bfba7b.chunk.js": "/dogs-origamid/static/js/2.88bfba7b.chunk.js",
+    "static/js/2.88bfba7b.chunk.js.map": "/dogs-origamid/static/js/2.88bfba7b.chunk.js.map",
     "index.html": "/dogs-origamid/index.html",
-    "static/css/main.d8ee7bf5.chunk.css.map": "/dogs-origamid/static/css/main.d8ee7bf5.chunk.css.map",
-    "static/js/2.267827af.chunk.js.LICENSE.txt": "/dogs-origamid/static/js/2.267827af.chunk.js.LICENSE.txt",
+    "static/css/main.d5813a14.chunk.css.map": "/dogs-origamid/static/css/main.d5813a14.chunk.css.map",
+    "static/js/2.88bfba7b.chunk.js.LICENSE.txt": "/dogs-origamid/static/js/2.88bfba7b.chunk.js.LICENSE.txt",
     "static/media/adicionar.2fe277f9.svg": "/dogs-origamid/static/media/adicionar.2fe277f9.svg",
     "static/media/dogs.69bf6d22.svg": "/dogs-origamid/static/media/dogs.69bf6d22.svg",
+    "static/media/enviar.1112bddc.svg": "/dogs-origamid/static/media/enviar.1112bddc.svg",
     "static/media/estatisticas.c69dd1e1.svg": "/dogs-origamid/static/media/estatisticas.c69dd1e1.svg",
     "static/media/feed.b8b13312.svg": "/dogs-origamid/static/media/feed.b8b13312.svg",
     "static/media/sair.a1917210.svg": "/dogs-origamid/static/media/sair.a1917210.svg",
@@ -21,9 +22,9 @@
     "static/media/FeedPhotosItem.module.css": "/dogs-origamid/static/media/visualizacao.09cd5578.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b64a5587.js",
-    "static/js/2.267827af.chunk.js",
-    "static/css/main.d8ee7bf5.chunk.css",
-    "static/js/main.f917200b.chunk.js"
+    "static/js/runtime-main.c21f6645.js",
+    "static/js/2.88bfba7b.chunk.js",
+    "static/css/main.d5813a14.chunk.css",
+    "static/js/main.fe3ffd3b.chunk.js"
   ]
 }
